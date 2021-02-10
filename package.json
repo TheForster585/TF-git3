@@ -1,0 +1,24 @@
+{
+  "name": "tf-git3",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "My first JS project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheForster585/TF-git3.git"
+  },
+  "keywords": [
+    "first",
+    "project"
+  ],
+  "author": "TheForster585",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheForster585/TF-git3/issues"
+  },
+  "homepage": "https://github.com/TheForster585/TF-git3#readme"
+}
