@@ -23,5 +23,8 @@
   "homepage": "https://github.com/TheForster585/TF-git3#readme",
   "dependencies": {
     "lodash": "^4.17.20"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
   }
 }
